@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luizf\\source\\repos\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2.csproj",
+      "projectUniqueName": "C:\\Users\\luizf\\Downloads\\aulaQualidadeDeSoftware_2\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2.csproj",
       "projectName": "aulaQualidadeDeSoftware2",
-      "projectPath": "C:\\Users\\luizf\\source\\repos\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2.csproj",
+      "projectPath": "C:\\Users\\luizf\\Downloads\\aulaQualidadeDeSoftware_2\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2.csproj",
       "packagesPath": "C:\\Users\\luizf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luizf\\source\\repos\\aulaQualidadeDeSoftware2\\aulaQualidadeDeSoftware2\\obj\\",
+      "outputPath": "C:\\Users\\luizf\\Downloads\\aulaQualidadeDeSoftware_2\\aulaQualidadeDeSoftware2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luizf\\AppData\\Roaming\\NuGet\\NuGet.Config",
